@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Editors / OS
+.idea/
+.vscode/
+*.swp
+Thumbs.db
+.DS_Store
+
+# Never commit database files or exported data
+data/
+export/
+*.DB
+*.db
+*.PX
+*.VAL
+*.MB
+*.XG*
+*.YG*
+*.csv
+*.xlsx
+*.xml
+~$*
