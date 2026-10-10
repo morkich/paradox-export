@@ -33,7 +33,7 @@ paradox-export = "paradox_export.cli:main"
 paradox-export-gui = "paradox_export.gui:main"
 
 [project.urls]
-Homepage = "https://github.com/CHANGE_ME/paradox-export"
+Homepage = "https://github.com/morkich/paradox-export"
 
 [tool.setuptools.packages.find]
 where = ["src"]

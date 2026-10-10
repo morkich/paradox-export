@@ -34,7 +34,7 @@ tooling no longer runs on modern Windows.
 ## Installation
 
 ```bash
-git clone https://github.com/CHANGE_ME/paradox-export.git
+git clone https://github.com/morkich/paradox-export.git
 cd paradox-export
 pip install .            # or: pip install -e ".[xlsx]"  (with openpyxl)
 ```
